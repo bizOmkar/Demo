@@ -1,7 +1,15 @@
 Hello World !!!!!
 
+<<<<<<< HEAD
 Adding Second lines to check.
 
 Checking commit  for changes branches 
 
 fixing the bug 
+=======
+Adding Second line to check.
+
+created New Branch.
+
+modified after new branch commit.
+
